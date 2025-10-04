@@ -3,4 +3,5 @@ const nextConfig = {
   // other config here...
 };
 
+
 export default nextConfig;
